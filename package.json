@@ -1,0 +1,19 @@
+{
+  "name": "prototypal-inheritance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeCricut/Jonas-Schmedtmann-prototypal-inheritance.git"
+  },
+  "author": "Andrew Richerson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeCricut/Jonas-Schmedtmann-prototypal-inheritance/issues"
+  },
+  "homepage": "https://github.com/CodeCricut/Jonas-Schmedtmann-prototypal-inheritance#readme"
+}
